@@ -8,10 +8,13 @@ bla bla bla
 = Details =
 
 ==params==
+{{{
 defun(_LoadEnv 
 defun(_Protrusion_calc 
+}}}
 
 ==library==
+{{{
 defun(_BoundHeight 
 defun(_Layer 
 defun(_ShapeCircle 
@@ -48,8 +51,10 @@ defun(_FlashFileCircleThermal
 defun(_ShapeCircleArray 
 defun(_MySkill 
 defun(_MakeDevice 
+}}}
 
 ==components==
+{{{
 defun(PadShapeMELF 
 defun(PadShapeKeyR 
 defun(PadShapeKeyOval 
@@ -97,6 +102,9 @@ defun(OSCJ
 defun(OSCCC 
 defun(OSCSCF 
 defun(BGA 
+}}}
 
 ==main==
+{{{
 procedure((_fpmMain) 
+}}}
