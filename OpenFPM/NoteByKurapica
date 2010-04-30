@@ -1,0 +1,19 @@
+THIS FILE SHOULD NOT BE PUBLISHED
+
+如何测试OpenFPM兼容性：
+
+1 生成原始FPM所有封装的MD5 Checksum
+	1 改掉skill文件夹的名字，不生成自定义skill
+	2 保证fpm.fpd是20070921未改动的
+	3 启动FPM，批处理生成所有封装
+	4 删除MYSYM文件夹下如下文件：
+	5 http://sourceforge.net/projects/md5summer/
+	6 生成.md5
+
+2 生成OpenFPM所有封装，步骤同上
+
+3 MD5校验之
+
+///////////////////////////////////////////////////////////////////////////////
+
+为保持名字空间独立，不侵犯其他工程/被侵犯，建议所有函数、常量与对象以of(OpenFPM)开头
