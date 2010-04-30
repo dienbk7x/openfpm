@@ -1,1 +1,5 @@
-README.
+OpenFPM is a clean box implementation of FPM.
+
+OpenFPM is derived from FPM 0.08. It is totally rewritten and kept compatibility with FPM 0.08.
+
+OpenFPM is distributed under BSD License. Read the LICENSE file for detail.
