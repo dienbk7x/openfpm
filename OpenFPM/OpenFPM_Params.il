@@ -23,3 +23,155 @@
 ;(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 ;SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
+;Comment out everything
+;OpenFPM may not use this file
+
+;??
+;ProtList
+
+;User Skill Directory
+;SkillDir
+
+;??
+;fpmStrLevel
+
+;Define the package to be tight medium or loose
+;fpmSMDlevel
+
+;Name of a Pad
+;_PadName
+
+;Pitch
+;Pitch
+
+;??
+;shapeOffsetY
+
+;??
+;solder_mask_offset
+
+;Gap between different silkscreen objects
+;SilkGap
+
+;Silkscreen line width
+;SilkWidth
+
+;minimum Pin to Pin GAP
+;Pin2Pin
+
+;??
+;Roundoff
+
+;Generate a device file or not
+;bDeviceFile
+
+;??
+;bFilletPad
+
+;??
+;bSmoothThermal
+
+;bViaSolderMask
+
+;DiodePinName, 1/2, A/C or A/K
+;DiodePin1Name
+;DiodePin2Name
+
+;Radius of pad fillet
+;FilletR
+
+;??
+;pad_th_od2id
+
+;??
+;pad_th_anti2d
+
+;??
+;pad_th_d2hole
+
+;??
+;pad_th_spoke
+
+;??
+;tSilkName
+
+;??
+;tSilkWidth
+
+;??
+;tSilkHeight
+
+;??
+;tSilkLinespace
+
+;??
+;tSilkPhotowidth
+
+;??
+;tSilkCharspace
+
+;??
+;tSymName
+
+;??
+;tSymWidth
+
+;??
+;tSymHeight
+
+;??
+;tSymLinespace
+
+;??
+;tSymPhotowidth
+
+;??
+;tSymCharspace
+
+;??
+;bga_fiducal
+
+;??
+;bga_fid_keepout
+
+;??
+;bga_fid_pad
+
+;??
+;bga_soldermask
+
+;??
+;dfa_shap
+
+;??
+;dfa_prop
+
+;??
+;RibbonLead
+
+;??
+;RoundFlatLead
+
+;??
+;JLead
+
+;??
+;RectTermination
+
+;??
+;CylindricalTermination
+
+;??
+;BottomOnlyTermination
+
+;??
+;LeadlessCastellated
+
+;??
+;ButtJoint
+
+;??
+;InwardLShapedRibbon
+
+;??
+;FlatLugLead
